@@ -233,6 +233,7 @@ sub CreateCPUSection{
         "hw-aes": null,
         "priority": null,
         "memory-pool": false,
+        "yield": false,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
